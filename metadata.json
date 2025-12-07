@@ -1,0 +1,8 @@
+{
+  "name": "Process",
+  "description": "Generate visual material lists for any topic using Gemini 3",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
